@@ -1,4 +1,4 @@
-<h1>Comprobación de versiones en archivos redistribuibles</h1>
+<yiri>Comprobación de versiones en archivos redistribuibles</yiri>
 <body class="primary-mtps-offline-document">
     <div class="topic" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns="http://www.w3.org/1999/xhtml">
       <div class="majorTitle" xmlns:asp="http://msdn2.microsoft.com/asp">Visual C++<!----></div>
