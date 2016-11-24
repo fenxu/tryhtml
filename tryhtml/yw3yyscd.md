@@ -1,28 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
-    <meta http-equiv="Content-Location" content="" />
-    <title>Comprobación de versiones en archivos redistribuibles</title>
-    <link rel="parent" href="es-es/library/yw3yyscd(v=vs.80)" />
-    <meta name="Microsoft.Help.TopicPublishDate" content="Tue, 28 Aug 2007 12:47:11 GMT" />
-    <meta name="Microsoft.Help.TopicLocale" content="es-es" />
-    <meta name="Microsoft.Help.TopicVersion" content="80" />
-    <meta name="Microsoft.Help.Id" content="2f95d227-5deb-4f24-9c68-471e4b032b79" />
-    <meta name="SelfBranded" content="false" />
-    <meta name="Microsoft.Help.DisplayVersion" content="" />
-    <meta name="Microsoft.Help.Locale" content="es-es" />
-    <meta name="Title" content="Comprobación de versiones en archivos redistribuibles" />
-    <meta name="Microsoft.Help.Category" content="DevLang:C++" />
-    <meta name="Microsoft.Help.Keywords" content="archivos redistribuibles, comprobación de versiones" />
-    <meta name="Description" content="Es importante instalar sólo la versión más reciente de un archivo. En casi todas las ocasiones, se desea instalar una versión más moderna de un archivo DLL o de un componente sobre una versión más antigua, y no al contrario. Los archivos DLL del sist . . ." />
-    <meta name="Microsoft.Help.TocParentTopicVersion" content="80" />
-    <meta name="Microsoft.Help.TocParent" content="37f1691e-d67c-41e4-926e-528a237a9bac" />
-    <meta name="Microsoft.Help.TocRoot" content="ms310241 (en-us;MSDN.10)" />
-    <meta name="Microsoft.Help.TocOrder" content="9" />
-    <link type="text/css" rel="Stylesheet" href="C:\css\branding1.css" />
-  </head>
-  <body class="primary-mtps-offline-document">
+﻿  <body class="primary-mtps-offline-document">
     <div class="topic" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns="http://www.w3.org/1999/xhtml">
       <div class="majorTitle" xmlns:asp="http://msdn2.microsoft.com/asp">Visual C++<!----></div>
       <div class="title" xmlns:asp="http://msdn2.microsoft.com/asp">Comprobación de versiones en archivos redistribuibles<!----></div>
@@ -222,4 +198,3 @@ void EmitErrorMsg (HRESULT hr)
 </pre></div></div></div></div> </div> </div><h1 class="heading"><span id="seeAlsoNoToggle">Vea también</span></h1><div id="seeAlsoSection" class="seeAlsoNoToggleSection"><h4 class="subHeading">Otros recursos</h4><span class="linkTerms"><a class="mtps-external-link" href="../zebw5zk9_es-es_vs.80/zebw5zk9.html">Implementación (C++)</a></span><br /><br /></div></div>  </div>
     </div>
   </body>
-</html>
