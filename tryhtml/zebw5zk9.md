@@ -1,28 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
-    <meta http-equiv="Content-Location" content="" />
-    <title>Implementación (C++)</title>
-    <link rel="parent" href="es-es/library/zebw5zk9(v=vs.80)" />
-    <meta name="Microsoft.Help.TopicPublishDate" content="Tue, 28 Aug 2007 10:35:19 GMT" />
-    <meta name="Microsoft.Help.TopicLocale" content="es-es" />
-    <meta name="Microsoft.Help.TopicVersion" content="80" />
-    <meta name="Microsoft.Help.Id" content="37f1691e-d67c-41e4-926e-528a237a9bac" />
-    <meta name="SelfBranded" content="false" />
-    <meta name="Microsoft.Help.DisplayVersion" content="" />
-    <meta name="Microsoft.Help.Locale" content="es-es" />
-    <meta name="Title" content="Implementación (C++)" />
-    <meta name="Microsoft.Help.Category" content="DevLang:C++" />
-    <meta name="Microsoft.Help.Keywords" content="implementar aplicaciones [C++]" />
-    <meta name="Description" content="La implementación es el proceso mediante el cual se distribuye una aplicación o componente finalizado para su instalación en otros equipos. La implementación es un proceso de varias fases que empieza cuando se crea una aplicación en el equipo de un d . . ." />
-    <meta name="Microsoft.Help.TocParentTopicVersion" content="80" />
-    <meta name="Microsoft.Help.TocParent" content="e8dcc44c-a3e2-4ffe-887c-fd15b18dc458" />
-    <meta name="Microsoft.Help.TocRoot" content="ms310241 (en-us;MSDN.10)" />
-    <meta name="Microsoft.Help.TocOrder" content="2" />
-    <link type="text/css" rel="Stylesheet" href="C:\css\branding1.css" />
-  </head>
+<link type="text/css" rel="Stylesheet" href="branding1.css" />
   <body class="primary-mtps-offline-document">
+    <yiri> Implementación (C++)</yiri>
     <div class="topic" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns="http://www.w3.org/1999/xhtml">
       <div class="majorTitle" xmlns:asp="http://msdn2.microsoft.com/asp">Visual C++<!----></div>
       <div class="title" xmlns:asp="http://msdn2.microsoft.com/asp">Implementación (C++)<!----></div>
