@@ -1,2 +1,4 @@
-#[Implementación](zebw5zk9_es-es_vs.80\zebw5zk9.md)
-##[Comprobación de versiones en archivos redistribuibles](yw3yyscd_es-es_vs.80\yw3yyscd.md)
+﻿#[Index](index.md)
+##[glossary](ms269124_de-de_VS.80\ms269124_de-de_VS.80.md)
+##[ktable](ms298905_de-de_VS.80\ms298905_de-de_VS.80.md)
+##[code snippets](mt488147_en-us_VS.110\mt488147_en-us_VS.110.md)
