@@ -1,10 +1,8 @@
-<yiri>Comprobación de versiones en archivos redistribuibles</yiri>
-<body class="primary-mtps-offline-document">
-    <div class="topic" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns="http://www.w3.org/1999/xhtml">
-      <div class="majorTitle" xmlns:asp="http://msdn2.microsoft.com/asp">Visual C++<!----></div>
-      <div class="title" xmlns:asp="http://msdn2.microsoft.com/asp">Comprobación de versiones en archivos redistribuibles<!----></div>
-      <!--Content type: DocStudio. Transform: devdiv2mtps.xslt.-->
-      <div id="mainSection"> <div id="mainBody">  <p /> <p>Es importante instalar sólo la versión más reciente de un archivo. En casi todas las ocasiones, se desea instalar una versión más moderna de un archivo DLL o de un componente sobre una versión más antigua, y no al contrario. Los archivos DLL del sistema, como Kernel32.dll, User32.dll, Ole32.dll y ShDocVW.dll, no se deben redistribuir. Si se necesita redistribuir algún archivo, no olvide leer los contratos de licencia correspondientes y asegurarse de que los archivos pueden redistribuirse según las diferentes versiones del sistema operativo y la ubicación de instalación. Normalmente, la comprobación de versiones corresponde al programa de instalación.</p> <p>Si crea un programa de instalación propio, debe comprobar manualmente la información de la versión al instalar los archivos redistribuibles. Este tema incluye un programa de ejemplo que comprueba los números de versión, o si falta el número de versión de un archivo, las marcas de fecha y hora.</p> <h1 class="heading">Ejemplo</h1><div id="sectionSection0" class="seeAlsoNoToggleSection">  <div class="subSection"> <p>En el ejemplo siguiente se muestra un método para comprobar entre dos bibliotecas dinámicas o aplicaciones ejecutables.</p> </div> <div class="subSection"> <div class="CodeSnippetLanguage" xmlns=""><div class="codeSnippetContainerCodeContainer"><div class="CodeSnippetToolBarText" style="valign: top"></div><div id="CodeSnippetContainerCode_0" class="CodeSnippetContainerCode"><div style="color:Black;"><pre>
+<div class="topic" xmlns:mtps="http://msdn2.microsoft.com/mtps" xmlns="http://www.w3.org/1999/xhtml">
+  <link type="text/css" rel="Stylesheet" href="..\branding1.css" />
+  <div class="title" xmlns:asp="http://msdn2.microsoft.com/asp">Comprobación de versiones en archivos redistribuibles<!----></div>
+  <!--Content type: DocStudio. Transform: devdiv2mtps.xslt.-->
+  <div id="mainSection"> <div id="mainBody">  <p /> <p>Es importante instalar sólo la versión más reciente de un archivo. En casi todas las ocasiones, se desea instalar una versión más moderna de un archivo DLL o de un componente sobre una versión más antigua, y no al contrario. Los archivos DLL del sistema, como Kernel32.dll, User32.dll, Ole32.dll y ShDocVW.dll, no se deben redistribuir. Si se necesita redistribuir algún archivo, no olvide leer los contratos de licencia correspondientes y asegurarse de que los archivos pueden redistribuirse según las diferentes versiones del sistema operativo y la ubicación de instalación. Normalmente, la comprobación de versiones corresponde al programa de instalación.</p> <p>Si crea un programa de instalación propio, debe comprobar manualmente la información de la versión al instalar los archivos redistribuibles. Este tema incluye un programa de ejemplo que comprueba los números de versión, o si falta el número de versión de un archivo, las marcas de fecha y hora.</p> <h1 class="heading">Ejemplo</h1><div id="sectionSection0" class="seeAlsoNoToggleSection">  <div class="subSection"> <p>En el ejemplo siguiente se muestra un método para comprobar entre dos bibliotecas dinámicas o aplicaciones ejecutables.</p> </div> <div class="subSection"> <div class="CodeSnippetLanguage" xmlns=""><div class="codeSnippetContainerCodeContainer"><div class="CodeSnippetToolBarText" style="valign: top"></div><div id="CodeSnippetContainerCode_0" class="CodeSnippetContainerCode"><div style="color:Black;"><pre>
 // checkversion.cpp
 // compile with: /link version.lib
 
@@ -196,6 +194,5 @@ void EmitErrorMsg (HRESULT hr)
 
     printf_s("%s\n",szMsg);
 }
-</pre></div></div></div></div> </div> </div><h1 class="heading"><span id="seeAlsoNoToggle">Vea también</span></h1><div id="seeAlsoSection" class="seeAlsoNoToggleSection"><h4 class="subHeading">Otros recursos</h4><span class="linkTerms"><a class="mtps-external-link" href="../zebw5zk9_es-es_vs.80/zebw5zk9.html">Implementación (C++)</a></span><br /><br /></div></div>  </div>
-    </div>
-  </body>
+</pre></div></div></div></div> </div> </div><h1 class="heading"><span id="seeAlsoNoToggle">Vea también</span></h1><div id="seeAlsoSection" class="seeAlsoNoToggleSection"><h4 class="subHeading">Otros recursos</h4><span class="linkTerms"><a class="mtps-external-link" href="../zebw5zk9_es-es_vs.80/zebw5zk9.md">Implementación (C++)</a></span><br /><br /></div></div>  </div>
+</div>

@@ -141,9 +141,9 @@ td.header
 	position:relative;
 	right:0;
 }
-h1
+H1
 {
-	font-size:8em; /*24pt*/
+	font-size:2em; /*24pt*/
 	font-weight:400;
 }
 H1.heading
