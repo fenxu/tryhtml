@@ -1,4 +1,4 @@
-#[Retired Contents](./mt488147_en-us_VS.110/Bb355063_en-us_vs.110/Bb355063.md)
+#[Retired Contents](mt488147_en-us_VS.110/Bb355063_en-us_vs.110/Bb355063.md)
 ##[Save Method (Stream)](mt488147_en-us_VS.110\Cc838604_en-us_vs.110\Cc838604.md)
 ##[Save Method (Stream, SaveOptions)](mt488147_en-us_VS.110\Cc838380_en-us_vs.110\Cc838380.md)
 ##[Save Method (TextWriter)](mt488147_en-us_VS.110\Bb356169_en-us_vs.110\Bb356169.md)
